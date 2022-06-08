@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kennedy-ak
-- 👀 I’m interested in ...MObile development,Machine Learning,Web development and Data science
-- 🌱 I’m currently learning ..Python and Web Development
-- 💞️ I’m looking to collaborate on ...any Project that you may Have
+- 👀 I’m interested in ...Data Analytics,Machine Learning,Artificial Intelligence and Data science
+- 💞️ I’m looking to collaborate on ...any Project that you may Have in what I am interested in
 - 📫 How to reach me . akogokennedy@gmail.com
 
 <!---
