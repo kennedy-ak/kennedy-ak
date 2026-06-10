@@ -1,4 +1,4 @@
 # 👋 Hi, I’m Kennedy Kweku Akogo
 
 
-I like building ML Models and Train LLMs 
+I like building ML Models and Training LLMs 
